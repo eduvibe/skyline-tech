@@ -1,0 +1,30 @@
+body{
+    font-size: 20px;
+}
+
+table{
+    padding: 2rem;
+    margin-inline: auto;
+}
+
+th, td{
+    padding: 0.4rem;
+    border-bottom: 1px solid #2075b2;
+}
+th{
+    text-align: justify;
+    background-color: #2075b2;
+    color: #fff;
+    border: 1px;
+    appearance: none;
+    
+}
+h2{
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.gray{
+    background-color:#f4efef;
+}
