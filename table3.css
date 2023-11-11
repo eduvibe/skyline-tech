@@ -1,0 +1,44 @@
+body{
+    font-size: 20px;
+}
+
+table{
+    padding-inline: 4rem;
+    margin-inline: auto;
+    margin-top: 0.2rem;
+}
+
+th, td{
+    padding: 0.4rem;
+    border-bottom: 1px solid #d2e2ed;
+    padding-inline: 7rem;
+}
+td, th :nth-child(:last-child){
+    border-bottom: none;
+}
+th{
+    text-align: justify;
+    background-color: #5299cb;
+    color: #fff;
+    border: 1px;
+    appearance: none;
+
+}
+.head h4{
+    margin-top: 6rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-weight: 100;
+    background-color: darkorange;
+    color: #fff;
+    border-radius: 0.4rem;
+    padding: 0.4rem;
+
+}
+.head{
+    width: 25%;
+    margin-inline: auto;
+}
+.gray{
+    background-color:#f4efef;
+}
